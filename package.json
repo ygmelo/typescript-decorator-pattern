@@ -1,0 +1,14 @@
+{
+  "name": "decorator",
+  "version": "1.0.0",
+  "description": "Decorator example",
+  "main": "decorator.js",
+  "scripts": {
+    "start": "tsc decorator.ts & node decorator.js"
+  },
+  "author": "Yuri",
+  "license": "ISC",
+  "dependencies": {
+    "ts": "^0.2.2"
+  }
+}
